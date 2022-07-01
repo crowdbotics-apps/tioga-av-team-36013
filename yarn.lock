@@ -1005,6 +1005,9 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
+"@modules/app-menu@file:./modules/app-menu/":
+  version "1.0.0"
+
 "@modules/chat@file:./modules/chat":
   version "1.0.0"
   dependencies:
@@ -1226,7 +1229,7 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/appointment-calendar@file:./screens/appointment-calendar/":
+"@screens/appointment-calendar@file:./screens/appointment-calendar":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
